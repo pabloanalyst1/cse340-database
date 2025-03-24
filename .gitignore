@@ -1,0 +1,30 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de VSCode
+.vscode/
+*.code-workspace
+
+# Archivos de entorno
+.env
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos específicos de SQL y bases de datos
+*.sql~
+*.bak
+*.backup
+
+# Archivos de historial de comandos de la terminal
+.bash_history
+
+# Archivos generados por el sistema operativo
+*.swp
+*.swo
+*.tmp
+*.ldb
+*.lock
+node_modules/
